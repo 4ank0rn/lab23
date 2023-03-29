@@ -1,5 +1,4 @@
 #include<iostream>
-#include<cstdlib>
 using namespace std;
 
 int main(int argc, char *argv[]){
@@ -16,4 +15,3 @@ int main(int argc, char *argv[]){
         cout << "Please input numbers to find average.";
     }
 }
-
